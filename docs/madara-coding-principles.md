@@ -55,7 +55,7 @@ impl Circle {
 }
 ```
 
-This simple `Circle` struct and its implementation is clean: it's
+This simple `Circle` struct and its implementation are clean: it's
 straightforward, self-describing, and only has the necessary functionality.
 
 ## 3. Principles
