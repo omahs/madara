@@ -50,7 +50,7 @@ The following flags are automatically enabled with the `--dev` argument:
 The `--tmp` flag stores the chain database in a temporary folder. You can
 specify a custom folder to store the chain state by using the `--base-path`
 flag. You cannot combine the `base-path` command with `--dev` as `--dev`
-enforces `--tmp` which will store the db at a temporary folder. You can,
+enforces `--tmp` which will store the db in a temporary folder. You can,
 however, manually specify all flags that the dev flag adds automatically. Keep
 in mind, the path must be the same as the one you used in the setup command.
 
